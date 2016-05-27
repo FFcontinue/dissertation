@@ -1,4 +1,4 @@
-# Introduction
+# Chapter 1 Introduction
 ## Background
 
 ## Aim and Objectives
@@ -12,17 +12,17 @@
 ## Scope of Dissertation
 
 
-# Sporting events for urban development
+# Chapter 2 Sporting events for urban development
 
 
-# Planning for post event operation
+# Chapter 3 Planning for post event operation
 
-# implementation of past reconstruction projects
+# Chapter 4 Implementation of past reconstruction projects
 
-# methodology
+# Chapter 5 Methodology
 
-# case study of the development east end after london olympic games
+# Chapter 6 Case study of the development east end after london olympic games
 
-# conclusions and recommendations for further work
+# Chapter 7 Conclusions and recommendations for further work
 
-# references
+# Chapter 8 References
